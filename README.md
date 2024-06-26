@@ -58,12 +58,14 @@ python capitalize.py
 Replace capitalize.py with the filename of the method you want to explore.
 
 ## Examples
+
 # Example 1: capitalize()
 ## python
 - Copy code
 # capitalize.py
 s = "hello world"
 print(s.capitalize())  # Output: "Hello world"
+
 # Example 2: casefold()
 ## python
 - Copy code
